@@ -1,7 +1,7 @@
 //	Program developed by
 //	Asier Blazquez Garcia
 
-// to compile it: gcc dibujar-triangulo.c -lGL -lGLU -lglut
+// to compile it: gcc dibujar-triangulo.c -lGL -lGLU -lglut g
 
 
 
